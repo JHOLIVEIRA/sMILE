@@ -1,2 +1,2 @@
 # sMILE
-Sanbox MiLe
+Sandbox MiLe
